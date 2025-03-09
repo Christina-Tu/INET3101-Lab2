@@ -1,12 +1,20 @@
 Christina Tu
+
 This program is a user menu that allows the user to select items in which they interact with and providing outputs.
 The user selects 1-7
+
 1 - printing all records
+
 2 - adding new records
+
 3 - deleting the last record
+
 4 - printing the number of records
+
 5 - printing the size of the database
+
 6 - printing the number of modifications
+
 7 - exit
 
 void printAllRecords()
